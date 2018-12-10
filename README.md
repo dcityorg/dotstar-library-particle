@@ -5,4 +5,4 @@ This software is adopted from Adafruit's DotStar library to make the library wor
 Adafruit's library is located [here](https://github.com/adafruit/Adafruit_DotStar).
 
 #### Adafruit's License Information
-License Information is [here](https://github.com/adafruit/Adafruit_DotStar/blob/master/COPYING).
+Adafruit License Information is [here](https://github.com/adafruit/Adafruit_DotStar/blob/master/COPYING).
