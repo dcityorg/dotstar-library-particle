@@ -37,7 +37,7 @@
   License along with NeoPixel.  If not, see <http://www.gnu.org/licenses/>.
   ------------------------------------------------------------------------*/
 
-#include "dotstar.h"
+#include "dotstar1.h"
 
 // // fast pin access
 // #if PLATFORM_ID == 0 // Core

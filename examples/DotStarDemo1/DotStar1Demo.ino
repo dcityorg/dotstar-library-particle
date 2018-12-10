@@ -23,7 +23,7 @@
 /* ======================= includes ================================= */
 
 
-#include "dotstar.h"
+#include "dotstar1.h"
 
 #define NUMPIXELS 72 // Number of LEDs in strip... 72 is used on the Adafruit DotStar Wing
 
