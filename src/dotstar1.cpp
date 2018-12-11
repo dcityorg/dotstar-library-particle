@@ -1,6 +1,9 @@
 /*------------------------------------------------------------------------
   Particle library to control Adafruit DotStar addressable RGB LEDs.
 
+  This version was adapted from version 1.0.4 of the library Adafruit_DotStar located at
+      https://github.com/adafruit/Adafruit_DotStar
+
   Ported by gary@dcity.org for Particle Photon, Electron, Argon, Boron and Xenon
   version:
     1.0.0 - 12/9/2018 Original Release.
